@@ -49,7 +49,7 @@ function addMarker(position) {
 
     var marker = new google.maps.Marker({
         position : position,
-        icon : 'hole.png',
+        icon : 'pics/hole.png',
         map : map
     });
 
